@@ -1,3 +1,3 @@
 # signatureWork 
 https://peaarons.github.io
-This is one of the first projects from web development that we had. 
+In the creation of my personal website, I focused on crafting a unique and visually appealing page only using HTML and CSS. Each HTML file encapsulates the structural elements of the site, defining the layout and content to ensure a seamless and intuitive user experience. With Foundation 6, I added some extra style to make it look awesome. Each page I made with HTML is like the bones of the site, deciding where everything goes. I didn't use any outside libraries, just my own code and Foundation 6, to show off my web skills. Putting my site out there for everyone to see on the internet is like showing off my digital space to the world, and it's pretty fun!
