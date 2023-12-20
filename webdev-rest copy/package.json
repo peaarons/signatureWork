@@ -1,0 +1,33 @@
+{
+    "name": "rest_server",
+    "description": "RESTful Web Server and Single Page Application",
+    "version": "1.0.0",
+    "author": {
+        "name": "Prachi Arons",
+        "email": "prachi.arons@stthomas.edu"
+    },
+    "contributors": [
+        "Isaiah Giebel"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/peaarons/webdev-rest.git"
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "leaflet": "^1.9.4",
+        "sqlite3": "^5.1.6",
+        "typescript": "^5.3.3",
+        "vue": "^3.2.36"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.5.2",
+        "vite": "^4.5.1"
+    }
+}
